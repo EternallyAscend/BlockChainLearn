@@ -4,7 +4,7 @@ Version 1.0
 
 </br></br>
 
-<font size="4.5" weight="2"><b><center>Medical Data Blockchain Services Platform with Hospital-ledger</center></b></font>
+<font size="8" weight="2"><b><center>Medical Data Blockchain Services Platform with Hospital-ledger</center></b></font>
 
 </br></br>
 
