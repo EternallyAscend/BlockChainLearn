@@ -1,0 +1,1 @@
+2020.03.25 Wed. Install apple MacOS on VMware with Baidu Cloud on Ubuntu. I want to install it on my HUAWEI MagicBook later.
