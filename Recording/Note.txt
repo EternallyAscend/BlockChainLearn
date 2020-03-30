@@ -1,1 +1,2 @@
 2020.03.25 Wed. Install apple MacOS on VMware with Baidu Cloud on Ubuntu. I want to install it on my HUAWEI MagicBook later.
+2020.03.30.Mon. Reinstall Ubuntu on the MagicBook, I wish there is not problem this time.
